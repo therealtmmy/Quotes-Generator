@@ -47,6 +47,11 @@ const quotes = [{
     {
         quote: '"The price it takes to be fake is the same price it takes to be real!"',
         person: 'Apostle Joshua Selman'
+    },
+
+    {
+        quote: '"There is no self-made man, we are all products of God’s grace."',
+        person: 'Bishop David Oyedepo'
     }
 ]
 
