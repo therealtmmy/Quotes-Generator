@@ -57,6 +57,16 @@ const quotes = [{
     {
         quote: '"To be rewarded well is to trade well with Life"',
         person: 'Mary Gideon'
+    },
+
+    {
+        quote: "What you see with the eyes of faith is more real than what you see with your optical eyes",
+        person: 'Chris Oyakhilome'
+    },
+
+    {
+        quote: "Every problem comes along with it’s solution; the bigger the problem, the bigger the testimony. Cheer up!",
+        person: 'Chris Oyakhilome'
     }
 
 ]
