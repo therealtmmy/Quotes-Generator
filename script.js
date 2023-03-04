@@ -52,7 +52,13 @@ const quotes = [{
     {
         quote: '"There is no self-made man, we are all products of God’s grace."',
         person: 'Bishop David Oyedepo'
+    },
+
+    {
+        quote: '"To be rewarded well is to trade well with Life"',
+        person: 'Mary Gideon'
     }
+
 ]
 
 btn.addEventListener("click", () => {
