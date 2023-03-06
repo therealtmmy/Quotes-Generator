@@ -1,34 +1,6 @@
-
 * {
     padding: 0%;
     margin: 0%;
-}
-
-body {
-background: url(/abstract-purple-watercolor-background-illustration-high-resolution-free-photo.jpg);
-}
-
-.Center-div {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-}
-
-.Quote-Generator {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-}
-
-.Quote-Generator > p {
-    font-size: 10em;
-    margin-bottom: -150px;
-    z-index: 1;
-    color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .Quote {
@@ -54,22 +26,6 @@ background: url(/abstract-purple-watercolor-background-illustration-high-resolut
     color: rgb(249, 7, 47);
     letter-spacing: 10px;
     margin-top: 25px;
-}
-
-button {
-    width: 120px;
-    height: 35px;
-    background-color: black;
-    color: white;
-    font-size: 15px;
-    margin-top: 20px;
-    border-radius: 5px;
-}
-
-button:hover {
-   border: 1px solid black;
-   background-color: white;
-   color: black;
 }
 
 @media screen and (max-width: 667px) {

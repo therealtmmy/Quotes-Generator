@@ -1,4 +1,4 @@
-let btn = document.querySelector(".Quote-Button");
+let btn = document.querySelector(".Quote-button");
 let quote = document.querySelector(".Quote-text ")
 let person = document.querySelector(".Quote-author")
 
@@ -70,6 +70,7 @@ const quotes = [{
     }
 
 ]
+
 
 btn.addEventListener("click", () => {
     let random = Math.floor(Math.random() * quotes.length);
