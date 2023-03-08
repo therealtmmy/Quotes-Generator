@@ -67,6 +67,16 @@ const quotes = [{
     {
         quote: "Every problem comes along with it’s solution; the bigger the problem, the bigger the testimony. Cheer up!",
         person: 'Chris Oyakhilome'
+    },
+
+    {
+        quote: "Remember to live while you are busy surviving",
+        person: 'Mary Gideon'
+    },
+
+    {
+        quote: "We make a living by what we get, but we make a life by what we give.",
+        person: 'Winston Churchill'
     }
 
 ]
