@@ -13,7 +13,7 @@ Everyone can! (and I mean everyone) 💫
 
 💻 **You don’t have to contribute code**. Add a new quote with author, fix a typo, report a bug, add some documentation, do some re-design or add a translation. This project just like most open source projects are in need of all sorts of different contributions. Not just code.
 
-🌟 **You are good enough**. Start off easy by fixing something small (like adding a new quotes). This will help you orient yourself in the project and increase your confidence and experience. No one will judge you if you make a mistake, and you can't break anything! Ask for some pointers if you get stuck. You got this!
+🌟 **You are good enough** Start off easy by fixing something small (like adding a new quotes). This will help you orient yourself in the project and increase your confidence and experience. No one will judge you if you make a mistake, and you can't break anything! Ask for some pointers if you get stuck. You got this!
 
 The only thing that is required to get started is git. Make sure you have it installed on your computer by running `git --version` in your terminal. If you do not have git installed, [install it](https://help.github.com/articles/set-up-git/).
 
