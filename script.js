@@ -32,52 +32,70 @@ const quotes = [{
     person: 'Oprah Winfrey'
 },    
 
-{quote: '"It does not matter how slowly you go. As long as you do not stop."',
-    person: 'Confucius'},
+{   
+    quote: '"It does not matter how slowly you go. As long as you do not stop."',
+    person: 'Confucius'
+},
 
-{quote: '"Our lives begin to end the day we become slient about things that matter."',
-    person: 'Martin Luther King, Jr'},
+{
+    quote: '"Our lives begin to end the day we become slient about things that matter."',
+    person: 'Martin Luther King, Jr'
+},
 
-{quote: '"Remember that not getting what you want is sometimes a wonderful stroke of luck."',
-    person: 'Dalai Lana'},
+{
+    quote: '"Remember that not getting what you want is sometimes a wonderful stroke of luck."',
+    person: 'Dalai Lana'
+},
 
-    {quote: '"The journey of a thousand miles begins with one step."',
-    person: 'Lao Tzu'},
+{
+    quote: '"The journey of a thousand miles begins with one step."',
+    person: 'Lao Tzu'
+},
 
-    {
-        quote: '"The price it takes to be fake is the same price it takes to be real!"',
-        person: 'Apostle Joshua Selman'
-    },
+{
+    quote: '"The price it takes to be fake is the same price it takes to be real!"',
+    person: 'Apostle Joshua Selman'
+},
 
-    {
-        quote: '"There is no self-made man, we are all products of God’s grace."',
-        person: 'Bishop David Oyedepo'
-    },
+{
+    quote: '"There is no self-made man, we are all products of God’s grace."',
+    person: 'Bishop David Oyedepo'
+},
 
-    {
-        quote: '"To be rewarded well is to trade well with Life"',
-        person: 'Mary Gideon'
-    },
+{
+    quote: '"To be rewarded well is to trade well with Life"',
+    person: 'Mary Gideon'
+},
 
-    {
-        quote: "What you see with the eyes of faith is more real than what you see with your optical eyes",
-        person: 'Chris Oyakhilome'
-    },
+{
+    quote: "What you see with the eyes of faith is more real than what you see with your optical eyes",
+    person: 'Chris Oyakhilome'
+},
 
-    {
-        quote: "Every problem comes along with it’s solution; the bigger the problem, the bigger the testimony. Cheer up!",
-        person: 'Chris Oyakhilome'
-    },
+{
+    quote: "Every problem comes along with it’s solution; the bigger the problem, the bigger the testimony. Cheer up!",
+    person: 'Chris Oyakhilome'
+},
 
-    {
-        quote: "Remember to live while you are busy surviving",
-        person: 'Mary Gideon'
-    },
+{
+    quote: "Remember to live while you are busy surviving",
+    person: 'Mary Gideon'
+},
 
-    {
-        quote: "We make a living by what we get, but we make a life by what we give.",
-        person: 'Winston Churchill'
-    }
+{
+    quote: "We make a living by what we get, but we make a life by what we give.",
+    person: 'Winston Churchill'
+},
+
+{
+    quote: "The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy",
+    person: 'Albert Camus'
+},
+
+{
+    quote: "It is always easy to be logical. It is almost impossible to be logical to the bitter end",
+    person: 'Albert Camus'
+},
 
 ]
 
