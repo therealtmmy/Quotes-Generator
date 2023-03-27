@@ -110,6 +110,8 @@ You just took your first step as an open source contributor. Your pull request w
 
 Please read the full text so that you can understand what actions will and will not be tolerated.
 
+Please kindly remember to star this repo. Thank you for your contribution.
+
 ## License
 
 Licensed under the MIT License.
