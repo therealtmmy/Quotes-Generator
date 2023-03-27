@@ -33,6 +33,8 @@ document.querySelector(".Quote-button").style.color = 'white'
 document.querySelector(".Quote-button").style.fontSize = '15px'
 document.querySelector(".Quote-button").style.marginTop = '20px'
 document.querySelector(".Quote-button").style.borderRadius = '15px'
+document.querySelector(".Quote-button").style.cursor = 'pointer'
+
 
 
 
