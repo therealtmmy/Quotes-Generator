@@ -112,6 +112,12 @@ const quotes = [
       "It is always easy to be logical. It is almost impossible to be logical to the bitter end",
     person: "Albert Camus",
   },
+
+  {
+    quote:
+      "The nexus of space and time where you are now is the most immediate sector in your universe",
+    person: "Terence McKenna",
+  }
 ];
 
 // Nexting the lines of codes
