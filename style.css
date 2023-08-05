@@ -3,6 +3,13 @@
   margin: 0%;
 }
 
+.Center-div {
+  background: url(https://png.pngtree.com/thumb_back/fh260/background/20230526/pngtree-an-old-bookcase-in-a-library-image_2642908.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 .Quote {
   width: 50em;
   height: 20em;
