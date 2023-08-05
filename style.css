@@ -1,50 +1,64 @@
 * {
-    padding: 0%;
-    margin: 0%;
+  padding: 0%;
+  margin: 0%;
 }
 
 .Quote {
-    width: 50em;
-    height: 20em;
-    background-color: white;
-    border-radius: 20px;
-    margin-top: 25px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+  width: 50em;
+  height: 20em;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  animation: fadeIn 2s ease-in-out;
+}
+
+.Quote-Generator {
+  z-index: 100;
+  animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 .Quote-text {
-    width: 20em;
-    font-size: 30px;
-    text-align: center;
+  width: 20em;
+  font-size: 30px;
+  text-align: center;
 }
 
 .Quote-author {
-    font-size: 25px;
-    color: rgb(249, 7, 47);
-    letter-spacing: 10px;
-    margin-top: 25px;
+  font-size: 25px;
+  color: rgb(249, 7, 47);
+  letter-spacing: 10px;
+  margin-top: 25px;
 }
 
 @media screen and (max-width: 667px) {
-    .Quote {
-        width: 19em;
-        height: 20em;
-        border-radius: 10px;
-    }
-    
-    .Quote-text {
-        width: 10em;
-        font-size: 23px;
-        text-align: center;
-    }
-    
-    .Quote-author {
-        font-size: 16px;
-        letter-spacing: 3px;
-        margin-top: 20px;
-    }
-    
+  .Quote {
+    width: 19em;
+    height: 20em;
+    border-radius: 10px;
+  }
+
+  .Quote-text {
+    width: 10em;
+    font-size: 23px;
+    text-align: center;
+  }
+
+  .Quote-author {
+    font-size: 16px;
+    letter-spacing: 3px;
+    margin-top: 20px;
+  }
 }
